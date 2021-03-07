@@ -1,0 +1,19 @@
+Hi Bianca,
+
+Please write a java program for below and send it to me accordingly. If you passed this, there will be an online interview arrangement between you and AIA Singapore.
+Prepare a property file having below:
+Source_folder=D:\Test\SomeFile
+Dest_folder=D:\Test\DestFile
+Log_location=D:\Test\Logs
+Log_file_name=FileMove.log
+Allow_extenstion=pdf,exls
+Write a java class to read property and move files from source folder to destination folder for only allowed extension files.
+While moving it need to write below in log file
+Start job time
+Reading property file status
+List of files it moving from source to destination folder
+End time
+
+The deadline is 3 days (sooner is better). Please submit the test result to this email with ZIP file ext.
+
+Good luck!
